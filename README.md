@@ -1,5 +1,7 @@
 # Jackal Mainnet Kurulum Rehberi
 
+![Jackal-GitHub](https://github.com/AnatolianTeam/Jackal-Mainnet-Kurulum-Rehberi/assets/102043225/4c7406b8-6e45-4b88-9306-7b9f903a6299)
+
 ## Bağlantılar
  ✔️ [Website](https://jackalprotocol.com/)<br>
  ✔️ [Blockchain Explorer](https://ping.pub/jackal)<br>
