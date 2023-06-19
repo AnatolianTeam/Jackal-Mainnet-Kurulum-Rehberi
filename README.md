@@ -163,6 +163,7 @@ curl "https://snapshots1.nodejumper.io/jackal/${SNAP_NAME}" | lz4 -dc - | tar -x
 ```shell
 systemctl daemon-reload
 systemctl enable canined
+systemctl start canined
 journalctl -u canined -f -o cat
 ```  
 
